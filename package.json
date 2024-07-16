@@ -1,12 +1,12 @@
 {
-"name": "newAcc",
+"name": "Dagaya",
 "version": "2.1.2",
-"description": "newAcc has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Dagaya has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name newAcc",
-"stop": "pm2 stop newAcc",
-"restart": "pm2 restart newAcc"
+"start": "pm2 start start.js --deep-monitoring --attach --name Dagaya",
+"stop": "pm2 stop Dagaya",
+"restart": "pm2 restart Dagaya"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
